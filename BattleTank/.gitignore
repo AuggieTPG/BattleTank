@@ -60,3 +60,15 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+BattleTank.VC.db
+Content/StarterContent/Architecture/*
+Content/StarterContent/Audio/*
+Content/StarterContent/Blueprints/*
+Content/StarterContent/Materials/*
+Content/StarterContent/Maps/*
+Content/StarterContent/Materials/*
+Content/StarterContent/Particles/*
+Content/StarterContent/Props/*
+Content/StarterContent/Shapes/*
+Content/StarterContent/Textures/*
